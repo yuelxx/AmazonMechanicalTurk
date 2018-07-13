@@ -1,15 +1,15 @@
 # Amazon Mechanical Turk
 Running speech experiments on AMT
 
-**On line marketplace | artificial artifical intelligence | data annotation**
+**On line marketplace | artificial artificial intelligence | data annotation**
 
 ## To ensure quality
 
 * Make instructions clear and concise <br>
-* Insert positive and negative controls to screent out bad turkers <br>
+* Insert positive and negative controls to screen out bad turkers <br>
 * Include a small amount of gold standard data (also, weight the turkers) <br>
-* Sometimes there is not a postive correlation betweent the amount of payment and the quality of the work <br>
-* Design a test set and chooese those who meet the standard <br>
+* Sometimes there is not a postive correlation between the amount of payment and the quality of the work <br>
+* Design a test set and choose those who meet the standard <br>
 * Block the bad turkers <br>
 <br>
 
